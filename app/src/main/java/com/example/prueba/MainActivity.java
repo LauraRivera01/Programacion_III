@@ -28,5 +28,28 @@ public class MainActivity extends Activity {
 
     //pesos
 
+    final private double Miligramo = 0.001;
+    final private double Gramo = 1;
+    final private double Decagramo = 10;
+    final private double Kilogramo = 1000;
+    final private double onzas = 28.3495;
+    final private double libras = 0.5;
+    final private double toneladas = 1000000;
+
+ //monedas
+
+    final private double DolarEu = 0.87;
+    final private double Euro = 1.18;
+    final private double Yen = 0.01;
+    final private double Libra = 1.31;
+    final private double Dolar = 1;
+    final private double Colon = 0.11;
+    final private double Cordoba = 0.03;
+    final private double Lempira = 0.04;
+    final private double Quetzal = 0.13;
+    final private double PesoMX = 21.99;
+
+
+
 
 }
